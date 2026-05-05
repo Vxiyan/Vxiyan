@@ -1,6 +1,5 @@
 # Hi there, I'm Vxiyan 👋
-
-The Void Calls...
+![Static Badge](https://img.shields.io/badge/Team-Nullscape-%237300ff?style=for-the-badge&logo=godot-engine&logoColor=%237300ff)
 <br>
 Developer, modular systems architect, and student at Global Impact STEM Academy.
 
