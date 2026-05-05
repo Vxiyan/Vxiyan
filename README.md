@@ -1,45 +1,47 @@
-# Hi there, I'm Vxiyan 👋
+# Vxiyan
 ![Static Badge](https://img.shields.io/badge/Team-Nullscape-%237300ff?style=for-the-badge&logo=godot-engine&logoColor=%237300ff)
 <br>
-Developer, modular systems architect, and student at Global Impact STEM Academy.
+**Hi, I'm Vxiyan.** I work as a developer, specialize in designing modular systems, and I'm also a student at **Global Impact STEM Academy**.
 
-### 🛠️ What I'm Working On
-- **Momentum-Based Multiplayer Game**: Engineering high-speed movement mechanics in **Godot**, featuring wall-jumping and physics-based sword combat.
-- **Modding & Automation**: Developing for **Minecraft** (Forge/Fabric/Create) and writing **Lua** scripts for advanced world-editing tools.
-- **Web Infrastructure**: Crafting streamlined dashboards and utility sites for digital organization.
-- **Coreless**: I can't get too into detail but this is a massive roguelite game with rich lore and original features.
+## 🔨 Current Projects
 
-### 🏢 Organization & Leadership
-- **[Team Nullscape](https://github.com/Team-Nullscape)**: Leading collaborative projects focused on high-performance, modular game design.
-- **Coding Club President**: Leading a student community, teaching foundational programming, and managing collaborative web projects.
+Here's a look at what I'm working on right now: I'm building a multiplayer game that focuses on fast, momentum-based movement in Godot. It includes features like wall-jumping and sword combat driven by physics. I also spend time modding and automating things, mainly for Minecraft with Forge, Fabric, and Create, plus I write Lua scripts for advanced world-editing tools. On the web side, I'm making clean dashboards and utility websites to help keep digital stuff organized. And then there's **Coreless** – I can't say much, but it's a huge roguelite game with a deep storyline and a lot of original ideas.
 
-### 🚀 Technical Toolkit
-- **Languages**: Python (Advanced), Java, GDScript, Lua, JavaScript, HTML/CSS, and JSONC.
-- **Engines & Frameworks**: Godot Engine, Minecraft (Forge/Fabric/Axiom/Create), and Docker.
-- **Environments**: Linux Power User (Bazzite, Fedora, SteamOS), Git/GitHub Version Control, and VS Code.
-- **Hardware**: Handheld optimization and hardware-level configuration for Steam Deck & ROG Ally.
-- **Professional Skills**: Project Leadership, Documentation, and Modular Systems Architecture.
+## 🏢 Organization & Leadership
 
-### 📂 Featured Repositories
-- [**CodeClub**](https://github.com/Vxiyan/CodeClub): The digital hub for my school's coding community.
-- [**Dashboard**](https://github.com/Vxiyan/Dashboard): My personal command center for workflow management.
-- [**Operius**](https://github.com/Vxiyan/Operius): A web-based port of high-speed arcade action.
+I'm part of **Team Nullscape**, where I lead group projects focused on making modular games that perform exceptionally well. I'm also the **president of the Coding Club**, which means I lead our student community, teach fundamental programming concepts, and manage our collaborative web projects.
 
-### 🌌 Beyond the Code
-When I'm not configuring DNS records or breaking Linux distros, you'll find me:
-- **Architecting** massive automated factories in the **Create Mod**.
-- **Drifting** in racing sims (it actually helps with the real-world driving).
-- **Voyaging** through the infinite procedurals of **No Man's Sky**.
-- **Designing** modular "plug and play" frameworks that make complex systems look easy.
+## ⚙️ Technical Skills & Tools
 
-### 🔗 Connect with Me
-- **GitHub**: [Link](https://github.com/Vxiyan)
-- **YouTube**: [Link](https://youtube.com/Vxiyan)
-- **Discord**: [Link](https://www.discord.com/users/979993433815003156)
+My technical tools include these languages: **advanced Python, Java, GDScript, Lua, JavaScript, HTML/CSS, and JSONC**.
 
-### 🕑 Hours
-- **Monday**: 3:00 PM to 9:00 PM
-- **Tuesday**: 4:00 PM to 9:00 PM
-- **Wednesday**: 5:00 PM to 9:00 PM
-- **Thursday**: 4:00 PM to 9:00 PM
-- **Friday**: 3:00 PM to 9:00 PM
+For engines and frameworks, I use **Godot Engine**, **Minecraft** (with Forge, Fabric, Axiom, and Create), and **Docker**. 
+
+In terms of environments, I'm a strong **Linux** user (especially with Bazzite, Fedora, and SteamOS), I use **Git and GitHub** for version control, and I work in **VS Code**. On the hardware side, I focus on optimizing handheld devices and configuring them at a low level for things like the **Steam Deck** and **ROG Ally**. 
+
+My professional skills cover project leadership, documentation, and building modular systems.
+
+## 📂 Featured Repositories
+
+- **[CodeClub](https://github.com/Vxiyan/CodeClub)** — the online home for my school's coding community.
+- **[Dashboard](https://github.com/Vxiyan/Dashboard)** — my personal system for managing my workflow.
+- **[Operius](https://github.com/Vxiyan/Operius)** — a web-based version of a fast-paced arcade game.
+
+## 🎴 Outside of Coding
+
+Outside of coding, when I'm not busy setting up DNS records or occasionally breaking a Linux system, you'll likely find me designing massive automated factories in the **Create Mod**. I also enjoy drifting in racing simulators, which actually helps with my real-world driving. Sometimes I get lost exploring the infinite, procedurally generated worlds of **No Man's Sky**. And I love coming up with modular 'plug and play' frameworks that make really complex systems seem simple.
+
+## 📱 Connect With Me
+
+- **GitHub:** [Link](https://github.com/Vxiyan)
+- **YouTube:** [Link](https://youtube.com/Vxiyan)
+
+## 🕑 Availability
+
+**My availability is generally:**
+
+- **Monday:** 3:00 PM to 9:00 PM
+- **Tuesday:** 4:00 PM to 9:00 PM
+- **Wednesday:** 5:00 PM to 9:00 PM
+- **Thursday:** 4:00 PM to 9:00 PM
+- **Friday:** 3:00 PM to 9:00 PM
