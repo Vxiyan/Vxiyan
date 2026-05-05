@@ -36,3 +36,10 @@ When I'm not configuring DNS records or breaking Linux distros, you'll find me:
 - **GitHub**: [Link](https://github.com/Vxiyan)
 - **YouTube**: [Link](https://youtube.com/Vxiyan)
 - **Discord**: [Link](https://www.discord.com/users/979993433815003156)
+
+### 🕑 Hours
+- **Monday**: 3:00 PM to 9:00 PM
+- **Tuesday**: 4:00 PM to 9:00 PM
+- **Wednesday**: 5:00 PM to 9:00 PM
+- **Thursday**: 4:00 PM to 9:00 PM
+- **Friday**: 3:00 PM to 9:00 PM
