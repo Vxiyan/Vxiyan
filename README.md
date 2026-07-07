@@ -9,7 +9,7 @@ Here's a look at what I'm working on right now: I'm building a multiplayer game 
 
 ## 🏢 Organization & Leadership
 
-I'm part of **Team Nullscape**, where I lead group projects focused on making modular games that perform exceptionally well. I'm also the **president of the Coding Club**, which means I lead our student community, teach fundamental programming concepts, and manage our collaborative web projects.
+I'm part of **Erebos Games**, where I lead group projects focused on making modular games that perform exceptionally well. I'm also the **president of the Coding Club**, which means I lead our student community, teach fundamental programming concepts, and manage our collaborative web projects.
 
 ## ⚙️ Technical Skills & Tools
 
