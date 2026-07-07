@@ -1,5 +1,5 @@
 # Vxiyan
-![Static Badge](https://img.shields.io/badge/Team-Nullscape-%237300ff?style=for-the-badge&logo=godot-engine&logoColor=%237300ff)
+![Static Badge](https://img.shields.io/badge/Erebos-Games-yellow?style=for-the-badge&logo=godot-engine&logoColor=%23ff9900&labelColor=%23997500)
 <br>
 **Hi, I'm Vxiyan.** I work as a developer, specialize in designing modular systems, and I'm also a student at **Global Impact STEM Academy**.
 
